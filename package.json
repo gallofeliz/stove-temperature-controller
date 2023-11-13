@@ -10,7 +10,7 @@
   "dependencies": {
     "@gallofeliz/beewi-reader": "^0.1.1",
     "@gallofeliz/documents-collection": "^0.1.1",
-    "@gallofeliz/ecoforest-stove": "^0.1.2",
+    "@gallofeliz/ecoforest-stove": "^0.1.3",
     "@gallofeliz/persistant-object": "^0.1.2",
     "@gallofeliz/run-process": "^0.1.4",
     "@gallofeliz/scheduler": "^0.3.1"
